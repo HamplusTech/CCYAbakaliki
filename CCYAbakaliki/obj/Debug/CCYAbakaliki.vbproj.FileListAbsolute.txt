@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\bin\Debug\CCYAbakaliki.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\bin\Debug\CCYAbakaliki.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\bin\Debug\CCYAbakaliki.xml
+C:\Users\USER\Documents\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\obj\Debug\CCYAbakaliki.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\obj\Debug\CCYAbakaliki.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\obj\Debug\CCYAbakaliki.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\obj\Debug\CCYAbakaliki.xml
+C:\Users\USER\Documents\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\obj\Debug\CCYAbakaliki.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\obj\Debug\CCYAbakaliki.frmDashBoard.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\obj\Debug\CCYAbakaliki.frmEvangelism.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\obj\Debug\CCYAbakaliki.frmFirstTimers.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\obj\Debug\CCYAbakaliki.frmYouthData.resources
+C:\Users\HampoJohnPaulAC\Desktop\xxxflash\old\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\obj\Debug\CCYAbakaliki.exe
+C:\Users\HampoJohnPaulAC\Desktop\xxxflash\old\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\obj\Debug\CCYAbakaliki.xml
+C:\Users\HampoJohnPaulAC\Desktop\xxxflash\old\Visual Studio 2008\Projects\CCYAbakaliki\CCYAbakaliki\obj\Debug\CCYAbakaliki.pdb
